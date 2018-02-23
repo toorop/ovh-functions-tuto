@@ -1,0 +1,5 @@
+functions:
+  thumbnail:
+    runtime: go
+    handler: thumbnail.Thumb
+  
